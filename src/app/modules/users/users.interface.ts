@@ -4,4 +4,3 @@ export type IUser = {
     role: string;
     password: string;
   }
-  //XmPUoGhh0lNYhLz9
