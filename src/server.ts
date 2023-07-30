@@ -12,7 +12,6 @@ async function bootstrap() {
   } catch (err) {
     console.log('Fail to connected Database', err)
   }
- 
 }
 
 bootstrap()
